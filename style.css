@@ -1,0 +1,73 @@
+body 
+{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial;
+}
+
+h1
+{
+    color: grey;
+    font-family: Verdana;
+}
+
+.maindiv
+{
+    background-color: #ffffff;
+    color: #000000;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* #result
+{
+    display: none;
+} */
+
+.contents
+{
+    margin-left: 80px;
+}
+
+table td
+{
+    padding-bottom: 10px;
+}
+
+#compute
+{
+    background-color: gray;
+    color: white;
+    height: 25px;
+    width: 150px;
+}
+#principal{
+    height: 25px;
+    width: 190px;
+}
+.t input{
+   background-color: blue;
+}
+
+#years{
+    height: 30px;
+    width: 40px;
+}
+
+#footer
+{
+    margin-top: 10px;
+}
+
+.labels
+{
+    width: 120px;
+}
+
+.highlight
+{
+    background-color: #ffff00;
+}
